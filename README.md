@@ -50,11 +50,11 @@ Key fields include:
 
 ### Dashboard 1
 
-![Dashboard 1](Images/Dashboard1.png)
+![Dashboard 1](Images/Dashboard_1.png)
 
 ### Dashboard 2
 
-![Dashboard 2](Images/Dashboard2.png)
+![Dashboard 2](Images/Dashboard_2.png)
 
 ---
 
@@ -74,11 +74,13 @@ Key fields include:
 Superstore-Sales-Dashboard/
 │
 ├── Sales_project.pbix
-├── Sample - Superstore.xlsx
+├── Sample-Superstore.csv
+├── Superstore Dashboard.pdf
 ├── Images/
-│   ├── Dashboard1.png
-│   └── Dashboard2.png
+│   ├── Dashboard_1.png
+│   └── Dashboard_2.png
 └── README.md
+
 ```
 
 ---
@@ -90,4 +92,4 @@ Superstore-Sales-Dashboard/
 
 B.Tech CSE (AI & ML)
 
-Vellore Institute of Technology, Chennai
+
